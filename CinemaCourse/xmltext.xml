@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<Film name="Silent Hill 2">
+		<Cinema>EvilLight</Cinema>
+		<Genre>Horror</Genre>
+		<Date>22.07.2024</Date>
+		<Beginning>9:30</Beginning>
+		<Duration>125</Duration>
+	</Film>
+
+	<Film name="Resident Evil: Apocalypse">
+		<Cinema>EvilLight</Cinema>
+		<Genre>Action</Genre>
+		<Date>22.07.2024</Date>
+		<Beginning>11:40</Beginning>
+		<Duration>110</Duration>
+	</Film>
+
+	<Film name="Bayonetta">
+		<Cinema>EvilLight</Cinema>
+		<Genre>Action</Genre>
+		<Date>23.07.2024</Date>
+		<Beginning>9:40</Beginning>
+		<Duration>120</Duration>
+	</Film>
+
+	<Film name="The Last of Us. Part 3">
+		<Cinema>VibeJO</Cinema>
+		<Genre>Drama</Genre>
+		<Date>22.07.2024</Date>
+		<Beginning>12:00</Beginning>
+		<Duration>180</Duration>
+	</Film>
+
+	<Film name="Life is Strange 4">
+		<Cinema>RestlessDreams</Cinema>
+		<Genre>Drama</Genre>
+		<Date>22.07.2024</Date>
+		<Beginning>14:40</Beginning>
+		<Duration>180</Duration>
+	</Film>
+
+	<Film name="Violet Evergarden">
+		<Cinema>RestlessDreams</Cinema>
+		<Genre>Drama</Genre>
+		<Date>23.07.2024</Date>
+		<Beginning>9:40</Beginning>
+		<Duration>180</Duration>
+	</Film>
+	
+</root>
+
